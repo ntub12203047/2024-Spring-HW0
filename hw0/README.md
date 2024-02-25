@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+### Answers to Problem 1
+[Figure 2 (I need help with the answers)](https://drive.google.com/file/d/1HQ-G9y5mVzwt9DN00JhpWXflXufu9W2S/view?usp=drive_link "Figure 2, I need help with the answers")
+[Figure 3](https://drive.google.com/file/d/1v8CUnCajMPfghtSDvtvhUSAm4bG_N4BG/view?usp=drive_link "Figure 3")
